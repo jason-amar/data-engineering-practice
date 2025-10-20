@@ -37,7 +37,7 @@ data-engineering-bootcamp/
 ## 📅 Progress Tracker
 
 - [x] Week 1, Day 1: Development Environment Setup
-- [ ] Week 1, Day 2: Working with File Formats
+- [x] Week 1, Day 2: Working with File Formats
 - [ ] Week 1, Day 3: API Data Extraction
 - [ ] Week 1, Day 4: Data Validation
 - [ ] Week 1, Day 5: Mini ETL Pipeline
@@ -58,6 +58,12 @@ data-engineering-bootcamp/
 - Learned Python logging best practices
 - Configured Git with proper .gitignore
 - Created reproducible environment with requirements.txt
+
+**Day 2 - Working with File Formats**
+- Compared CSV, JSON, and Parquet performance
+- Learned why Parquet dominates big data (columnar storage, compression)
+- Built reusable file format converter
+- Benchmarked read/write speeds and file sizes
 
 ---
 
