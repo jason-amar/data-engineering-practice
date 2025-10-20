@@ -37,3 +37,9 @@ data/
 # Logs
 *.log
 logs/
+
+# Test data files (don't commit large data to git!)
+week1-setup/test_data/
+*.csv
+*.json
+*.parquet

@@ -1,0 +1,15 @@
+FILE FORMAT PERFORMANCE COMPARISON
+======================================================================
+
+    format operation  time_seconds  file_size_mb   rows
+0      CSV      read      0.026411      0.890712  10000
+1     JSON      read      0.031695      2.321107  10000
+2  Parquet      read      0.401042      0.227575  10000
+3      CSV     write      0.037071      0.890712  10000
+4     JSON     write      0.014508      2.349717  10000
+5  Parquet     write      0.026958      0.226618  10000
+
+======================================================================
+Fastest Read:  CSV
+Fastest Write: JSON
+Smallest File: Parquet
