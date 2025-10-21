@@ -65,6 +65,7 @@ data-engineering-bootcamp/
 - Built reusable file format converter
 - Benchmarked read/write speeds and file sizes
 
+**Skipping API extraction and Data quality along with ETL pipeline building. see practice_archive\nba_pipeline for my work there.
 ---
 
 *Last Updated: October 20, 2025*

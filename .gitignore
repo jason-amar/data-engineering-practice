@@ -43,3 +43,11 @@ week1-setup/test_data/
 *.csv
 *.json
 *.parquet
+
+# SQLite databases (don't commit databases to git!)
+*.db
+*.sqlite
+*.sqlite3
+
+# Week 2 SQL outputs
+week2-sql/*.db
