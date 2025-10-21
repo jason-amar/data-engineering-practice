@@ -36,11 +36,19 @@ data-engineering-bootcamp/
 
 ## 📅 Progress Tracker
 
-- [x] Week 1, Day 1: Development Environment Setup
-- [x] Week 1, Day 2: Working with File Formats
-- [ ] Week 1, Day 3: API Data Extraction
-- [ ] Week 1, Day 4: Data Validation
-- [ ] Week 1, Day 5: Mini ETL Pipeline
+### Week 1: Python & SQL Foundations
+- [x] Day 1: Development Environment Setup
+- [x] Day 2: Working with File Formats
+- [x] Day 3: API Data Extraction (Basketball Reference)
+- [x] Day 4: Data Validation & Quality Checks
+- [x] Day 5: Mini ETL Pipeline
+
+### Week 2: SQL Mastery
+- [x] Day 1: Advanced SQL Queries (Window Functions, CTEs)
+- [ ] Day 2: Aggregations & Analytics
+- [ ] Day 3: SQL Performance & Optimization
+- [ ] Day 4: Data Modeling Basics
+- [ ] Day 5: Python + SQL Integration
 
 ## 💻 Technologies
 
@@ -66,6 +74,12 @@ data-engineering-bootcamp/
 - Benchmarked read/write speeds and file sizes
 
 **Skipping API extraction and Data quality along with ETL pipeline building. see practice_archive\nba_pipeline for my work there.
----
 
-*Last Updated: October 20, 2025*
+**Week 2, Day 1 - Advanced SQL Queries**
+- Mastered window functions (ROW_NUMBER, LAG, PARTITION BY)
+- Built complex CTEs for multi-step analysis
+- Joined 5 tables for comprehensive reporting
+- Created realistic sales database with 500 customers, 2000 orders
+- Analyzed customer lifetime value, monthly trends, category performance
+---
+*Last Updated: October 21, 2025*
