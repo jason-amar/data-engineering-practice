@@ -45,11 +45,10 @@ data-engineering-bootcamp/
 
 ### Week 2: SQL Mastery
 - [x] Day 1: Advanced SQL Queries (Window Functions, CTEs)
-- [ ] Day 2: Aggregations & Analytics
-- [ ] Day 3: SQL Performance & Optimization
+- [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts) (SKIPPED)
+- [x] Day 3: SQL Performance & Optimization
 - [ ] Day 4: Data Modeling Basics
 - [ ] Day 5: Python + SQL Integration
-
 ## 💻 Technologies
 
 - Python 3.11+
@@ -81,5 +80,14 @@ data-engineering-bootcamp/
 - Joined 5 tables for comprehensive reporting
 - Created realistic sales database with 500 customers, 2000 orders
 - Analyzed customer lifetime value, monthly trends, category performance
+
+**Week 2, Day 3 - SQL Performance & Optimization**
+- Mastered query execution plans (EXPLAIN QUERY PLAN)
+- Created indexes for optimal performance (10x+ speedups!)
+- Learned indexing strategies (when to index, when not to)
+- Identified and fixed common performance anti-patterns
+- Built performance benchmarking tool to measure query speed
+- Optimized foreign key joins with composite indexes
+- Analyzed before/after performance with real metrics
 ---
-*Last Updated: October 21, 2025*
+*Last Updated: October 27, 2025*
