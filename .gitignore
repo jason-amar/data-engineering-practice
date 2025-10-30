@@ -51,3 +51,13 @@ week1-setup/test_data/
 
 # Week 2 SQL outputs
 week2-sql/*.db
+
+Add the new database:
+```
+# SQLite databases (don't commit databases!)
+*.db
+*.sqlite
+*.sqlite3
+
+# Specifically exclude warehouse
+week2-sql/data_warehouse.db
