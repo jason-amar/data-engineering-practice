@@ -45,9 +45,9 @@ data-engineering-bootcamp/
 
 ### Week 2: SQL Mastery
 - [x] Day 1: Advanced SQL Queries (Window Functions, CTEs)
-- [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts) (SKIPPED)
+- [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts)
 - [x] Day 3: SQL Performance & Optimization
-- [ ] Day 4: Data Modeling Basics
+- [x] Day 4: Data Modeling Basics (Star Schema, SCD Type 2)
 - [ ] Day 5: Python + SQL Integration
 ## 💻 Technologies
 
@@ -89,5 +89,12 @@ data-engineering-bootcamp/
 - Built performance benchmarking tool to measure query speed
 - Optimized foreign key joins with composite indexes
 - Analyzed before/after performance with real metrics
+
+### Week 2: SQL Mastery
+- [x] Day 1: Advanced SQL Queries (Window Functions, CTEs)
+- [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts)
+- [x] Day 3: SQL Performance & Optimization
+- [x] Day 4: Data Modeling Basics (Star Schema, SCD Type 2)
+- [ ] Day 5: Python + SQL Integration
 ---
-*Last Updated: October 27, 2025*
+*Last Updated: October 30, 2025*
