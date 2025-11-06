@@ -48,7 +48,14 @@ data-engineering-bootcamp/
 - [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts)
 - [x] Day 3: SQL Performance & Optimization
 - [x] Day 4: Data Modeling Basics (Star Schema, SCD Type 2)
-- [ ] Day 5: Python + SQL Integration
+- [x] Day 5: Python + SQL Integration (skipped - not relevant to Azure stack)
+
+### Week 3: PySpark & Databricks
+- [x] Day 1: PySpark Fundamentals (concepts)
+- [ ] Day 2: Advanced DataFrames (Databricks)
+- [ ] Day 3: Delta Lake & Performance (Databricks)
+- [ ] Day 4: Databricks Workflows (Databricks)
+- [ ] Day 5: Production Pipeline (Databricks)
 ## 💻 Technologies
 
 - Python 3.11+
@@ -95,6 +102,58 @@ data-engineering-bootcamp/
 - [x] Day 2: Aggregations & Analytics (PIVOT, HAVING, RFM, Cohorts)
 - [x] Day 3: SQL Performance & Optimization
 - [x] Day 4: Data Modeling Basics (Star Schema, SCD Type 2)
-- [ ] Day 5: Python + SQL Integration
+- [x] Day 5: Python + SQL Integration
+
+# Week 3: PySpark & Databricks Fundamentals
+
+Learning distributed data processing with PySpark and Azure Databricks.
+
+## 📚 Overview
+
+This week focuses on big data processing with Apache Spark and Azure Databricks:
+- **Day 1:** PySpark fundamentals (completed conceptually)
+- **Days 2-5:** Hands-on practice in Azure Databricks workspace
+
+## 🎯 Day 1: PySpark Basics (Local Concepts)
+
+**Topics Covered:**
+- Spark architecture (driver, executors, partitions)
+- Creating DataFrames (from lists, Pandas, CSV)
+- Basic operations (select, filter, withColumn, groupBy)
+- Lazy evaluation (transformations vs actions)
+- Spark SQL syntax
+- Schema definitions (explicit vs inferred)
+
+**Key Concepts Learned:**
+- ✅ Lazy evaluation - transformations build query plans, actions trigger execution
+- ✅ Immutability - DataFrames are immutable, operations create new DataFrames
+- ✅ Distributed processing - Spark splits data across executors for parallel processing
+- ✅ SQL and DataFrame API - can use either syntax interchangeably
+
+**Files:**
+- `pyspark_basics.py` - Foundational PySpark concepts and operations
+- `requirements.txt` - Python dependencies (pyspark, pandas, pyarrow)
+
+## 🌐 Days 2-5: Azure Databricks
+
+**Note:** Remaining lessons are completed in Azure Databricks workspace for hands-on practice with production tools.
+
+**Topics to Cover:**
+- Advanced DataFrame operations (joins, window functions)
+- Reading/writing Parquet and Delta Lake
+- Performance optimization (partitioning, caching, broadcast joins)
+- Databricks notebooks and clusters
+- Unity Catalog integration
+
+### Week 3: PySpark & Databricks
+
+**Week 3, Day 1 - PySpark Fundamentals**
+- Learned Spark architecture (driver, executors, distributed processing)
+- Understood lazy evaluation and query optimization
+- Practiced DataFrame operations (select, filter, groupBy, aggregations)
+- Learned transformations vs actions pattern
+- Used both DataFrame API and Spark SQL syntax
+- Defined explicit schemas for production data
+- *Note: Remaining days completed in Azure Databricks workspace*
 ---
-*Last Updated: October 30, 2025*
+*Last Updated: November 6, 2025*

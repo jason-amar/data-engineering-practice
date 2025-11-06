@@ -61,3 +61,14 @@ Add the new database:
 
 # Specifically exclude warehouse
 week2-sql/data_warehouse.db
+
+# Week 3 PySpark
+week3-pyspark/data/
+week3-pyspark/*.db
+week3-pyspark/metastore_db/
+week3-pyspark/derby.log
+week3-pyspark/spark-warehouse/
+
+# Databricks
+.databricks/
+*.dbc
