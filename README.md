@@ -108,6 +108,12 @@ data-engineering-bootcamp/
 
 Learning distributed data processing with PySpark and Azure Databricks.
 
+- [x] Day 1: PySpark Fundamentals (concepts)
+- [x] Day 2: Advanced DataFrames - NYC Taxi Analysis (Databricks)
+- [ ] Day 3: Delta Lake & Performance (Databricks)
+- [ ] Day 4: Databricks Workflows (Databricks)
+- [ ] Day 5: Production Pipeline (Databricks)
+
 ## 📚 Overview
 
 This week focuses on big data processing with Apache Spark and Azure Databricks:
@@ -155,5 +161,14 @@ This week focuses on big data processing with Apache Spark and Azure Databricks:
 - Used both DataFrame API and Spark SQL syntax
 - Defined explicit schemas for production data
 - *Note: Remaining days completed in Azure Databricks workspace*
+
+**Week 3, Day 2 - Advanced DataFrames in Databricks**
+- Analyzed 10+ million NYC taxi trips in Azure Databricks
+- Implemented window functions (ROW_NUMBER, RANK, LAG) for rankings and trends
+- Used PARTITION BY for distributed group-wise operations
+- Calculated month-over-month revenue growth
+- Identified peak demand hours and high-revenue locations
+- Generated actionable business insights from big data
+- Optimized queries with DataFrame caching
 ---
-*Last Updated: November 6, 2025*
+*Last Updated: November 7, 2025*
